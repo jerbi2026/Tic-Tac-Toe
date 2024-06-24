@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1679506040 source:c:\users\jerbi\documents\1 bi\semestre 2\programmation\projet 2eme semestre\projet xo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	<time.h>
+	<unistd.h>
+	<conio.h>
+
+1679509640 source:c:\users\jerbi\documents\1 bi\semestre 2\programmation c\projet 2eme semestre\projet xo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	<time.h>
+	<unistd.h>
+	<conio.h>
+
+1679509640 source:c:\users\jerbi\documents\1 bi\des projets\projet xo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	<time.h>
+	<unistd.h>
+	<conio.h>
+
+1679509640 source:c:\users\jerbi\documents\1ère année business intelligence ihec carthage\des projets\projet xo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	<time.h>
+	<unistd.h>
+	<conio.h>
+

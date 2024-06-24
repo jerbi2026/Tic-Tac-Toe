@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1679506040 source:c:\users\jerbi\documents\1 bi\semestre 2\programmation\projet 2eme semestre\test projet\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	<time.h>
+	<unistd.h>
+	<conio.h>
+
